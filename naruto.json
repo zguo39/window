@@ -1,0 +1,52 @@
+[{
+	"name": "木叶村",
+	"children": [{
+		"name": "千手柱间",
+		"children": [{
+			"name": "纲手"
+		}]
+	},{
+		"name": "千手扉间"
+	},{
+		"name": "猿飞日斩",
+		"children": [{
+			"name": "猿飞阿斯玛"
+		},{
+			"name": "猿飞木叶丸"
+		}]
+	},{
+		"name": "波风水门",
+		"children": [{
+			"name": "漩涡玖辛奈"
+		},{
+			"name": "旋涡鸣人",
+			"children": [{
+				"name": "旋涡向日葵"
+			},{
+				"name": "漩涡博人"
+			}]
+		}]
+	},{
+		"name": "自来也"
+	}]
+},{
+	"name": "砂隐村",
+	"children": [{
+		"name": "初代风影"
+	}]
+},{
+	"name": "雾隐村",
+	"children": [{
+		"name": "初代雾影"
+	}]
+},{
+	"name": "云隐村",
+	"children": [{
+		"name": "初代雷影"
+	}]
+},{
+	"name": "岩隐村",
+	"children": [{
+		"name": "初代岩影"
+	}]
+}]
